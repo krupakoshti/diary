@@ -1,0 +1,5 @@
+disha	disha123	Disha	mehta	female	21	disha@gmail.com	surat	SBV
+krupa	krupakk	krupa	koshti	female	7	krup@gmail.com	baroda	leelaba
+khyati	khyatipagal	khyati	desai	female	27	kd@gmail.com	bihar	JHB
+sunny	sk	sunny	koshti	male	30	sk@gmail.com	abd	pathshala
+kk	kruuu007	krupa	koshti	female	30	kk2gmail.com	surat	abc

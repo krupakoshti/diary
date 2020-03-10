@@ -1,0 +1,5 @@
+1	Meeting
+2	Family
+3	Friends
+4	LoveLife
+5	Feelings
